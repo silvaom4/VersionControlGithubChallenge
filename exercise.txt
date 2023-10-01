@@ -1,0 +1,24 @@
+1. Explain what the terminal is in your own words?
+- A terminal is a text based interface that allows you to give your computer specific commands. 
+  Within a terminal you can edit files, open, close, create, delete, as well as navigate around your computer.
+  The terminal has built in shortcuts that allow for smooth navigation. 
+
+2. What is the major difference between Git and GitHub?
+- Git is software for version control. Git can be used with in the terminal. 
+  Version control allows you to have historic data of files you have created, modified, and (or) deleted.
+  These files are called repositories. Git allows you to access which ever version of the repository you may need.
+  This is handy when working on projects with teammates and want to deligate tasks but also review individual work.
+  It keeps a records of the changes that were made.
+  GitHub is an online platform where you can upload these repositories for the public. 
+  Git is used locally on your own computer while GitHub is used online and can be accessed from anywhere by anyone.
+
+3. What are the steps to fork a GitHub repository?
+- In order to fork a repository, you will need to be within a repository on GitHub.
+  Once you are there, you will see a button in the top right corner area that says 'Fork" paired with a fork icon.
+  Clicking this will alllow you to fork,create a copy of, a repository. This fork will include all of the previous commits.
+  Forking is similar to a branch but it doesn't make any changes to original file. Forking is good for using others code as a 
+  starting point or for making suggestions to code and having the original project creator review the code for for committing the changes.
+  If you fork a repository and make changes you would then make a pull request and it would be up to the owner of the repository 
+  to accept those changes.
+
+  
